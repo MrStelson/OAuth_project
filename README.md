@@ -29,7 +29,7 @@ python manage.py runserver
 
 #### Before start project necessary create virtualenv ".env" with VK and Google tokens
 - SOCIAL_AUTH_VK_OAUTH2_KEY = \<your VK key\>
-- SOCIAL_AUTH_VK_OAUTH2_SECRET = "<your VK secret>"
-- SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = "<your Google key>"
-- SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = "<your Google secret>"
+- SOCIAL_AUTH_VK_OAUTH2_SECRET = \<your VK secret\>
+- SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = \<your Google key\>
+- SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = \<your Google secret\>
 
